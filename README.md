@@ -1,6 +1,5 @@
 # Portfolio
 Personal portfolio webpage made using JavaScript, HTML, CSS showcasing my projects. 
-Project Images:
 
 <img width="1440" alt="Screenshot 2024-06-11 at 3 44 12 PM" src="https://github.com/Pouriamohseni/Portfolio/assets/145625808/9d644746-2119-495c-a9cf-0c6078a0a374">
 
